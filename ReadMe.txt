@@ -107,10 +107,8 @@ If npm dependencies are broken:
   npm install
   npm start
 
-------------------------------------------------------------
-8. Contact
-------------------------------------------------------------
+AUTHOR
 
-Author: Dilakshithan
-Email: dilakpuhal@gmail.com
+NAME:P.DISHANTHAN
+MAIL : dishanthanpavalendran@gmail.com
 
